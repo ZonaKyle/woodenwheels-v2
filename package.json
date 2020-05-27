@@ -30,7 +30,7 @@
 		"once": "^1.3.0",
 		"glob": "^4.0.2",
     "fstream": "^1.0.0",
-    "tar": "^1.0.0",
+    "tar": "^6.0.2",
 		"semver": "^2.3.0",
 		"graceful-fs": "^3.0.0",
 		"npm-cache-filename": "^1.0.0",
