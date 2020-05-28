@@ -5,7 +5,7 @@
 */
 {
   // Name your instance!
-  "title": "Etherpad",
+  "title": "Wooden Wheels",
 
   // favicon default name
   // alternatively, set up a fully specified Url to your own favicon
@@ -73,7 +73,7 @@
   
   /* Users for basic authentication. is_admin = true gives access to /admin.
      If you do not uncomment this, /admin will not be available! */
-  /*
+  
   "users": {
     "admin": {
       "password": "changeme1",
@@ -84,12 +84,12 @@
       "is_admin": false
     }
   },
-  */
+  
 
   // restrict socket.io transport methods
   "socketTransportProtocols" : ["xhr-polling", "jsonp-polling", "htmlfile"],
   
-  /* The toolbar buttons configuration.
+  // The toolbar buttons configuration.
   "toolbar": {
     "left": [
       ["bold", "italic", "underline", "strikethrough"],
@@ -106,7 +106,7 @@
       ["timeslider_export", "timeslider_returnToPad"]
     ]
   },
-  */
+  
 
   /* The log level we are using, can be: DEBUG, INFO, WARN, ERROR */
   "loglevel": "INFO",
