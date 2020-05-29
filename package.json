@@ -1,5 +1,5 @@
 {
-  "name": "woodenwheels",
+  "name": "herokupad",
   "version": "0.0.1",
   "description": "",
   "main": "web.js",
@@ -11,16 +11,23 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ZonaKyle/woodenwheels-v2"
+    "url": "https://github.com/talexand/etherpad-lite.git"
   },
   "keywords": [
     "heroku",
     "etherpad"
   ],
-  "author": "",
+  "author": "trevor-alexander",
   "license": "GPL",
+<<<<<<< HEAD
   "bugs": {},
   "homepage": "",
+=======
+  "bugs": {
+    "url": "https://github.com/talexand/etherpad-lite/issues"
+  },
+  "homepage": "https://github.com/talexand/etherpad-lite",
+>>>>>>> parent of 69871aa... whatever
   "dependencies": {
     "ep_webrtc": "^0.1.3",
     "fstream": "^1.0.0",
